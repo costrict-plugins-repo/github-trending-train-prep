@@ -1,0 +1,8 @@
+{
+  "name": "train-prep",
+  "description": "A Claude Code skill plugin for preparing AI consulting training materials — research industry pain points, map AI solutions, generate Word reports and interactive HTML slides using multi-agent parallel workflows",
+  "author": {
+    "name": "leeon",
+    "email": "leeon.lee@189.cn"
+  }
+}
